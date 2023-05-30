@@ -8,7 +8,7 @@ To clone and run this application, you can create a google collab account and co
 https://drive.google.com/drive/folders/1V3-rvHeRMR9BKh5LOqScg59eKsCp71fF?usp=sharing
 
 # Testing
-To test your model once it's trained, run the code cell at the bottom to create a camera plugin in google collab (make sure your camera on your device is working). Then, utilize the capture button that appears and the model will predict the letter you are holding up.
+To test your model once it's trained, run the code cell at the bottom to create a camera plug-in in google collab (make sure your camera on your device is working). Then, utilize the capture button that appears and the model will predict the letter you are holding up.
 
 # Authors
 This project was created by Ashmit Gaba, Ananth Sriram, and Mihir Singh.
